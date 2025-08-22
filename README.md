@@ -4,6 +4,8 @@
 
 酒狐是 Minecraft Java 版模组 Touhou Little Maid 和 Yes Steve Model 模组的吉祥物。
 
+## 设定来源
+
 最初设定是通过输入关键词（`长发、金发、狐娘、大正女仆`等）AI 生成的人设图制作而成，参考下图：
 
 <img src="https://raw.githubusercontent.com/TartaricAcid/WineFoxModel/refs/heads/main/AI%20%E4%BA%BA%E8%AE%BE%E5%9B%BE/%E9%85%92%E7%8B%90%E5%88%9D%E7%89%88%20AI%20%E4%BA%BA%E8%AE%BE%E5%9B%BE.jpg" height="500px" alt="img"></img>
@@ -70,27 +72,30 @@
     - [祸御神](https://space.bilibili.com/164557734)：动画优化
     - [羊毛](https://space.bilibili.com/85335217)：动画音效、乱舞动画作者
     - [蓝玫瑰](https://space.bilibili.com/11814817)：蓝色材质作者
-    - 白帆小喵：新版材质作者
+    - [白帆小喵](https://space.bilibili.com/492836494)：新版材质作者
     - dqsk_zze：爬梯动画修正
 
 - JK 酒狐
     - [伊蕾娜家的咸鱼](https://space.bilibili.com/20682514)：模型作者
-    - 浅陌菌：模型修改
-    - 星屑海螺：动画作者
-    - 墨染逝羽：模型修改
+    - [浅陌菌](https://space.bilibili.com/24513198)：模型修改
+    - [星屑海螺](https://space.bilibili.com/14975572)：动画作者
+    - [墨染逝羽](https://space.bilibili.com/5718046)：模型修改
 
 - 新年酒狐
     - [纸板](https://space.bilibili.com/29208164)：模型作者
-    - 星屑海螺：动画作者
+    - [星屑海螺](https://space.bilibili.com/14975572)：动画作者
 
 - 汉服酒狐
-	- 纸板：模型作者
+	- [纸板](https://space.bilibili.com/29208164)：模型作者
 
 - 宇航员酒狐
-	- 金箱：模型作者
+	- [金箱](https://space.bilibili.com/393110)：模型作者
 
 ## AI 设定图
 
 由`花风小饼干`通过 AI 跑出的部分设定图，和模型可能存在部分差异
 
 全部在 `AI 设定图` 文件夹下。
+
+## 表情包
+由`花风小饼干`通过 AI 跑出的表情包，在 `表情包` 文件夹下
