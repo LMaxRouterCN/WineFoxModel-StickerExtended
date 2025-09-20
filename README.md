@@ -61,35 +61,45 @@
 
 ## 作者署名
 
-排名不分先后
+排名不分先后。部分模型因历史原因可能作者有所遗漏，还请不啬指正
 
-- 大正女仆酒狐（默认）
-    - [金箱](https://space.bilibili.com/393110)：初版模型作者
-    - [星屑海螺](https://space.bilibili.com/14975572)：主要动画作者、部分模型修改
-    - [映素作坊（团队）](https://space.bilibili.com/400235810)：模型修改
+- 大正女仆酒狐（默认，~~原初酒狐~~）
+    - [完美冻结](https://space.bilibili.com/393110)：模型原作
+    - [星屑海螺](https://space.bilibili.com/14975572)：动画原作、部分模型修改
+    - [哥斯拉（映素作坊团队）](https://space.bilibili.com/400235810)：部分模型修改
+    - [白帆小喵](https://space.bilibili.com/492836494)：新版材质作者
+    - [蓝玫瑰](https://space.bilibili.com/11814817)：雪狐材质作者
     - [墨染逝羽](https://space.bilibili.com/5718046)：面具模型
     - [浅陌菌](https://space.bilibili.com/24513198)：模型优化修正
     - [祸御神](https://space.bilibili.com/164557734)：动画优化
     - [羊毛](https://space.bilibili.com/85335217)：动画音效、乱舞动画作者
-    - [蓝玫瑰](https://space.bilibili.com/11814817)：蓝色材质作者
-    - [白帆小喵](https://space.bilibili.com/492836494)：新版材质作者
     - dqsk_zze：爬梯动画修正
-
+- 新年酒狐
+  - [纸板](https://space.bilibili.com/29208164)：模型作者
+  - [星屑海螺](https://space.bilibili.com/14975572)：动画作者
+- 宇航员酒狐
+	- [完美冻结](https://space.bilibili.com/393110)：模型作者
+    - [星屑海螺](https://space.bilibili.com/14975572)：动画作者
+    - [哥斯拉（映素作坊团队）](https://space.bilibili.com/400235810)：部分模型修改
+    - [祸御神](https://space.bilibili.com/164557734)：GUI 动画
+- 功夫酒狐
+    - [哥斯拉（映素作坊团队）](https://space.bilibili.com/400235810)：模型作者
+- 魔法酒狐
+    - [星海ELIYA](https://space.bilibili.com/66634439)：模型、材质修改
+    - [伊蕾娜教代行教皇](https://space.bilibili.com/519088494)：帽子模型
+- 汉服酒狐
+	- [纸板](https://space.bilibili.com/29208164)：模型作者
 - JK 酒狐
     - [伊蕾娜家的咸鱼](https://space.bilibili.com/20682514)：模型作者
     - [浅陌菌](https://space.bilibili.com/24513198)：模型修改
     - [星屑海螺](https://space.bilibili.com/14975572)：动画作者
     - [墨染逝羽](https://space.bilibili.com/5718046)：模型修改
-
-- 新年酒狐
-    - [纸板](https://space.bilibili.com/29208164)：模型作者
-    - [星屑海螺](https://space.bilibili.com/14975572)：动画作者
-
-- 汉服酒狐
-	- [纸板](https://space.bilibili.com/29208164)：模型作者
-
-- 宇航员酒狐
-	- [金箱](https://space.bilibili.com/393110)：模型作者
+- 店员酒狐
+	- [圣起司](https://space.bilibili.com/18095414)：贴图和服装修改
+- 酒狐小汽车
+    - [Maks怜悯](https://space.bilibili.com/352177387) 模型作者
+- 酒狐摩托艇
+    - [Maks怜悯](https://space.bilibili.com/352177387) 模型作者
 
 ## AI 设定图
 
