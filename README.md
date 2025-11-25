@@ -34,6 +34,7 @@
 
 |                 作品名                 |                             地址                             |                             作者                             |
 | :------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|          逃离鸭科夫 酒狐模组           |        <https://www.bilibili.com/video/BV1Q91UBzEkF/>        |        [灯火橘](https://space.bilibili.com/32256434)         |
 |          雨中冒险 2 酒狐模组           |        <https://www.bilibili.com/video/BV1vLjGzUELB>         |    [无形Invisible_](https://space.bilibili.com/129172098)    |
 |          绝地潜兵 2 酒狐模组           |        <https://www.bilibili.com/video/BV1URMnzyEEC>         |       [Pale_Fox](https://space.bilibili.com/10280428)        |
 | 酒狐 3D 模型打印售卖<br>**（已授权）** |        <https://www.bilibili.com/video/BV12SMUzQER5>         |         [油七桶](https://space.bilibili.com/4896879)         |
@@ -106,6 +107,3 @@
 由`花风小饼干`通过 AI 跑出的部分设定图，和模型可能存在部分差异
 
 全部在 `AI 设定图` 文件夹下。
-
-## 表情包
-由`花风小饼干`通过 AI 跑出的表情包，在 `表情包` 文件夹下
